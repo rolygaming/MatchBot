@@ -104,15 +104,14 @@ Al final, el servidor iniciará un mapa de votación para cambiar de nivel al si
 | mb_cfg_end                         | end.cfg       | End config. <br /> Executed right after match ends.|
 </details>
 
-<h3>Why CS 1.6 it's sucks</h3>
+<h3>¿Por qué CS 1.6 es una porquería?</h3>
 <p>
-In first place, You're welcome!<br>  
-Actually we have CS:GO a more modern version of the game.<br>  
-But we can still have fun with a game like Counter-Strike that have been played more than 20 years.<br>  
-I think i can help community to have more clean servers that want to play a competitive match.
+En primer lugar, ¡de nada!<br>
+En realidad, tenemos CS:GO, una versión más moderna del juego.<br>
+Pero aún podemos divertirnos con un juego como Counter-Strike que se ha jugado durante más de 20 años.<br>
+Creo que puedo ayudar a la comunidad a tener más servidores limpios que quieran jugar una partida competitiva.
 </p>
 
-<h3>I need Help!</h3>
-<p>Visit your <a href="https://github.com/SmileYzn/MatchBot/wiki">wiki</a> to know what more you can do with Match Bot</p>
-<p><a href="https://discord.gg/jFxKr9RSRc" target="_new">Discord Server</a></p>
-<p>Before open an issue, make sure that you have updated ReHLDS with ReGameDLL_CS</p>
+<h3>¡Necesito ayuda!</h3>
+<p>Visita tu <a href="https://chat.whatsapp.com/JaoNAAEYe11Kw74ygnLZWp">Nuestro Grupo de WhatsApp:</a> para saber qué más puedes hacer con ROLIGAMING MiX</p>
+<p>Antes de abrir un problema, asegúrate de haber actualizado ReHLDS Server, ReGameDLL_CS, AMX Mod X y ReAPI.</p>
