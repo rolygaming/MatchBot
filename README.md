@@ -7,49 +7,49 @@
     <a href="https://github.com/SmileYzn/MatchBot/releases/latest"><img src="https://img.shields.io/github/downloads/SmileYzn/MatchBot/total?label=Download%40latest&style=flat-square&logo=github&logoColor=white" alt="Download"></a>
 </p>
 
-<h3>Description</h3>
+<h3>Descripción</h3>
 <p>
-This mod allows the server to run a full match without any admin to control the server.<br>
-Players must be choose a team, say .ready in chat and wait for server start the match, or just wait for time counter ends.<br>
-At the end, server will start a vote map to changelevel to next map automatically.<br>
+Este mod permite que el servidor ejecute una partida completa sin que ningún administrador controle el servidor.<br>
+Los jugadores deben elegir un equipo, por ejemplo, listo en el chat y esperar a que el servidor comience la partida, o simplemente esperar a que termine el contador de tiempo.<br>
+Al final, el servidor iniciará un mapa de votación para cambiar de nivel al siguiente mapa automáticamente.<br>
 </p>
 
-<h3>Requirements</h3>
+<h3>Requisitos</h3>
 <ul>
-    <li>ReHLDS</li>
-    <li>ReGameDLL_CS</li>
-    <li>Metamod</li>
-</ul> 
+<li>ReHLDS</li>
+<li>ReGameDLL_CS</li>
+<li>Metamod</li>
+</ul>
 
-<h3>Features</h3>
+<h3>Características</h3>
 <ul>
-<li>Automatic Ready System (Timer based like CS:GO does or Ready System method)</li>
-<li>Custom configs changes bettwen match states</li>
-<li>Server slots management with spectators and HLTV slots support</li>
-<li>Automatic ban players that use rage quit from game</li>
-<li>Automatic LO3 (Live on three restarts)</li>
-<li>Automatic Teams balancer (Players are balanced when enter in game)</li>
-<li>Support for block players pick teams, or ender directly in game</li>
-<li>Many commands to admin control the match server and the players</li>
-<li>Configurable required players to start match, also minimum players to stop if players left</li>
-<li>Game based on max rounds rules (MR15 like)</li>
-<li>Mod support overtime rule, sudden death or end directly (In case of tied match)</li>
-<li>A complete player (.help) and admin (!help) help system</li>
-<li>Player and Admin commands in chat or console</li>
-<li>Warmup Rounds with some deathmatch gameplay</li>
-<li>Custom map list for vote for next map, teams and more</li>
-<li>Mod support player vote kick, timeout pause, vote map, surrender (Match end vote)</li>
-<li>Supports captain pickup, random balanced, balance by skill from warmup, swap teams, or kinfe round</li>
-<li>Support best of x rounds on start to dettermine who will won the first round (MD3 Like)</li>
-<li>Display round damge stats with some commands like .dmg, .hp or .sum and others</li>
-<li>Multi language support</li>
-<li>Minimalist admin flag system to manage the admins in game</li>
-<li>Dead talk support (Dead teammate's can talk)</li>
-<li>Anti Flood for chat and radio messages</li>
-<li>Mod runs into ReHLDS with ReGameDLL_CS server</li>
-<li>Match BOT can run on Windows or Linux servers</li>
-<li>Custom server configuration to optmize the game</li>
-<li>Other features that is not listed here you can see in your wiki</li>
+<li>Sistema de preparación automático (basado en temporizador como CS:GO o método de sistema de preparación)</li>
+<li>Cambios de configuración personalizados entre estados de partida</li>
+<li>Gestión de espacios de servidor con soporte para espectadores y espacios de HLTV</li>
+<li>Bloqueo automático de jugadores que usan la ira para salir del juego</li>
+<li>LO3 automático (activo en tres reinicios)</li>
+<li>Balanceador automático de equipos (los jugadores se equilibran cuando ingresan al juego)</li>
+<li>Compatibilidad con jugadores bloqueados, elegir equipos o finalizar directamente en el juego</li>
+<li>Muchos comandos para que el administrador controle el servidor de partida y los jugadores</li>
+<li>Jugadores requeridos configurables para comenzar la partida, también jugadores mínimos para detener si los jugadores se fueron</li>
+<li>Juego basado en reglas de rondas máximas (como MR15)</li>
+<li>Regla de tiempo extra de soporte de mod, muerte súbita o final directo (en caso de empate)</li>
+<li>Un sistema completo de ayuda para jugadores (.help) y administradores (!help)</li>
+<li>Comandos de jugador y administrador en el chat o la consola</li>
+<li>Rondas de calentamiento con algo de juego de combate a muerte</li>
+<li>Lista de mapas personalizada para votar por el próximo mapa, equipos y más</li>
+<li>El mod admite la votación de expulsión del jugador, pausa de tiempo de espera, votación de mapa, rendición (votación de fin de partida)</li>
+<li>Admite la selección de capitán, balance aleatorio, balance por habilidad desde el calentamiento, cambio de equipos o ronda de kinfe</li>
+<li>Admite el mejor de x rondas al inicio para determinar quién ganará la primera ronda (como MD3)</li>
+<li>Muestra las estadísticas de daño de la ronda con algunos comandos como .dmg, .hp o .sum y otros</li>
+<li>Compatibilidad con varios idiomas</li>
+<li>Sistema de banderas de administrador minimalista para gestionar a los administradores en el juego</li>
+<li>Compatibilidad con Dead Talk (los compañeros de equipo muertos pueden hablar)</li>
+<li>Anti Flood para mensajes de chat y radio</li>
+<li>El mod se ejecuta en ReHLDS con el servidor ReGameDLL_CS</li>
+<li>Match BOT puede ejecutarse en servidores Windows o Linux</li>
+<li>Configuración de servidor personalizada para Optimiza el juego</li>
+<li>Puedes ver otras funciones que no aparecen aquí en tu wiki</li>
 </ul>
 
 <h3>Match BOT Server Variables</h3>
